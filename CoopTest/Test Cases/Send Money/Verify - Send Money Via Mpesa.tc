@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify - Send Money Via Mpesa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f0a3074-75ce-410b-a53d-2bef223db0be</testCaseGuid>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>1030d2e8-1538-494a-aa3d-8cd5ff66bc75</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>
